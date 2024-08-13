@@ -5,6 +5,7 @@
   "compilerOptions": {
     "outDir": "./dist/out-tsc",
     "strict": true,
+    "jsx": "react",
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
